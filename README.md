@@ -181,10 +181,3 @@ GitHub: [https://github.com/augustomigueldev](https://github.com/augustomiguelde
 
 ````
 
-Depois faz:
-
-```bash
-git add README.md
-git commit -m "docs: update project readme"
-git push
-````
